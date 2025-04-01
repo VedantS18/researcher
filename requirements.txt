@@ -1,0 +1,10 @@
+arxiv
+openai
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-openai
+chromadb
+beautifulsoup4
+lxml 

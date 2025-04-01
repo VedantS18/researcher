@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Downloaded papers and databases
+papers/
+chroma_db/
+chroma_langchain_db/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Grobid
+grobid-*/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db 
