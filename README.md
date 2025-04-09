@@ -1,4 +1,4 @@
-# Research Paper Assistant
+# Agent-based Research Paper Assistant
 
 An AI-powered research assistant that helps fetch, process, and analyze academic papers. Using a combination of arXiv for paper retrieval, Grobid for PDF processing, and GPT-4 for intelligent interactions, this tool streamlines the research paper reading process.
 
